@@ -2,6 +2,18 @@
 
 This is a simple countdown timer web application that counts down to the New Year.
 
+<<<<<<< HEAD
+=======
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+>>>>>>> ce603e6b7cee25cf03e2846be13607c0c0ab0372
 ## Introduction
 
 The Countdown Timer web application displays a countdown to the New Year, showing the remaining months, days, hours, minutes, and seconds. It is built using HTML, CSS, and JavaScript.
@@ -32,3 +44,10 @@ Once the Countdown Timer is running, it will continuously update in real-time to
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+<<<<<<< HEAD
+=======
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+>>>>>>> ce603e6b7cee25cf03e2846be13607c0c0ab0372
